@@ -57,3 +57,16 @@
 <img src="https://raw.githubusercontent.com/IshanSangani/IshanSangani/output/snake.svg" alt="Snake animation" />
 
 ###
+<h3 align="left">📫 Connect with me:</h3>
+
+<p align="left">
+  <a href="mailto:ishansangani13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ishan-sangani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discord.com/users/your-discord-id" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+</p>
