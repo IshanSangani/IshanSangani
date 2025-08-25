@@ -8,9 +8,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=IshanSangani&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
-</div>
+
 </div>
 
 ###
