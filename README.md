@@ -9,7 +9,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=IshanSangani&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=IshanSangani&theme=tokyonight&hide_border=true&border_radius=10" alt="streak graph" />
+</div>
 </div>
 
 ###
